@@ -1,1 +1,1 @@
-https://github.com/Demi09li/first-project
+https://github.com/Demi09li/ono-tebe-nado
